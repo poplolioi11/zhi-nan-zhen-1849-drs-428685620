@@ -1,0 +1,52 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "指南針（1849，DRS 428685620） / Zhi nan zhen: Transcription Dataset",
+  "message": "If you use this dataset, cite this version and the source copy.",
+  "version": "0.2.0",
+  "date-released": "2026-11-22",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/zhi-nan-zhen-1849-drs-428685620/releases/tag/v0.2.0",
+  "repository-code": "https://github.com/poplolioi11/zhi-nan-zhen-1849-drs-428685620",
+  "abstract": "Zhi nan zhen (指南針, The Compass), by Thomas Hall Hudson (胡德邁), was printed by the Fuyin Dian (福音殿) in Ningbo in the 29th year of the Daoguang reign (1849). Its preface explains the title through the image of people adrift on a great sea with no sense of direction, whom a compass can guide so they are no longer tossed about; it ties this guidance to passing through danger and to heeding the book, and closes with the author's resolve to travel far to bring \"these good tidings\" (斯佳音) to sailors everywhere, urging readers to guard their souls and rely on Jesus. The main text, \"Fengquan zhouren\" (奉勸舟人, An Exhortation to Boatmen), opens on the perils of a seafarer's life amid \"vast waters\" (大水茫茫) and the dangers of the waves, and the book ends by stating that it was printed as an exhortation (故梓是書以奉勸), asking readers to take its counsel to heart before the closing line \"指南針終\".\n\nThe catalogue identifies Thomas Hall Hudson (胡德邁) as the author of the historical work. This dataset uses 18 fixed images, including 12 text-bearing pages, from Harvard-Yenching Library DRS 428685620. The AI-reviewed JSON, TXT and TEI transcription retains 62 unresolved comparison items. Full human collation is outstanding.",
+  "keywords": [
+    "指南針 / Zhi nan zhen",
+    "胡德邁 / Thomas Hall Hudson",
+    "華文新教印刷 / Chinese Protestant printing",
+    "海員布道 / Evangelism to seafarers",
+    "晚清寧波 / Late Qing Ningbo",
+    "寧波福音殿 / Fuyin Dian, Ningbo",
+    "道光二十九年 / Daoguang 29 (1849)",
+    "航海比喻 / Nautical metaphor",
+    "奉勸舟人 / Exhortation to boatmen",
+    "序 / Preface",
+    "耶穌 / Jesus",
+    "刻本 / Woodblock-printed edition",
+    "傳教文獻 / Missionary literature",
+    "轉錄資料集 / Transcription dataset"
+  ],
+  "references": [
+    {
+      "type": "book",
+      "title": "指南針",
+      "publisher": {
+        "name": "寧波福音殿"
+      },
+      "authors": [
+        {
+          "given-names": "Thomas Hall",
+          "family-names": "Hudson"
+        }
+      ],
+      "year": 1849,
+      "url": "https://id.lib.harvard.edu/alma/990081478010203941/catalog",
+      "notes": "Harvard-Yenching Library DRS 428685620, RAREB TA 1980.2 40."
+    }
+  ]
+}
