@@ -48,5 +48,13 @@
       "url": "https://id.lib.harvard.edu/alma/990081478010203941/catalog",
       "notes": "Harvard-Yenching Library DRS 428685620, RAREB TA 1980.2 40."
     }
+  ],
+  "doi": "10.5281/zenodo.24442334",
+  "identifiers": [
+    {
+      "type": "doi",
+      "value": "10.5281/zenodo.24442333",
+      "description": "Zenodo series DOI for all versions"
+    }
   ]
 }
